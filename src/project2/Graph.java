@@ -102,7 +102,6 @@ public class Graph extends JFrame {
 		draw.setData(collection);
 		JPanel panel1 = new JPanel();
 		panel1.setLayout(new BorderLayout());
-		panel1.setSize(600, 500);
 		panel1.add(draw, BorderLayout.CENTER);
 		draw.setH(panel1.getHeight());
 		draw.setW(panel1.getWidth());

@@ -70,7 +70,7 @@ public class Draw extends JPanel {
 		g2.drawLine(40, 30, 40, 500);
 		g2.drawString("Value", 20, 20);
 		// Draw x-axis.
-		g2.drawLine(30, h/2+80, 650, h/2+80);
+		g2.drawLine(30, 480, 650, 480);
 		g2.drawString("Time", w - 60, h / 2 + 80);
 		// Mark data points.
 		g2.setColor(Color.red);
