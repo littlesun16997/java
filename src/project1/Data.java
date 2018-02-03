@@ -74,7 +74,7 @@ public class Data {
 				+ month
 				+ "/"
 				+ date
-				+ "/DailyHistory.html?req_city=Vaasa+Airport&req_state=&req_statename=Finland&reqdb.zip=00000&reqdb.magic=&reqdb.wmo=&format=1";
+				+ "/DailyHistory.html?req_city=Vaasa&req_state=&req_statename=Finland&reqdb.zip=00000&reqdb.magic=11&reqdb.wmo=02912";
 	}
 
 	// Fetch weather data from the web 
